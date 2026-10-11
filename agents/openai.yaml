@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究方向发现"
+  short_description: "从第一性原理和跨领域机制出发，发现同级研究方向并定义关键问题"
+  default_prompt: "请使用 $research-direction-discovery，从已有突破出发，结合第一性原理和其他领域的真实经验，提出同级研究方向，说明问题、解决机制和通俗实例。"
